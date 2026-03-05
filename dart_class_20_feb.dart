@@ -12,4 +12,7 @@ do {
   start++;
 }
 while(start<10);
+
+var a = 9;
+print(a);
 }
